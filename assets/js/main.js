@@ -6,7 +6,7 @@ const titlteHTML = document.getElementById("cardTitle");
 const cardImgAtributes = document.getElementById("cardImg");
 const statHtml = document.getElementById("stats");
 const aboutHTML = document.getElementById("about");
-const closeButton = document.getElementsByClassName("close");
+const closeButton = document.getElementById("close");
 
 let htmlPokemons;
 const maxPokemonLoad = 251;
